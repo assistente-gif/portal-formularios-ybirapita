@@ -1,7 +1,7 @@
 {
     "name": "portal-estoque-agrícola",
     "short_name": "Portal",
-    "start_url": "/",
+    "start_url": "/portal-formularios-ybirapita/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
